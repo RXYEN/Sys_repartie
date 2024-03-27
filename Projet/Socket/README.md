@@ -10,7 +10,9 @@ Cette application est un exemple de service de diffusion. Tout message que vous 
         Assurez-vous d'avoir 'Java'  installé sur votre machine.    
 `Les étapes :`
 *1- Clonez le dépôt*
+
 *2- Assurez-vous d'être dans le dossier " bin/ " dans votre CLI*
+
 *3- Lancez le serveur :*
 
             java Server
