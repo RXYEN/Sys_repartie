@@ -11,11 +11,12 @@ Cette application est un exemple de service de diffusion. Tout message que vous 
 `Les étapes :`
 1- Clonez le dépôt 
 2- Assurez-vous d'être dans le dossier " bin/ " dans votre CLI
-3- Lancez le serveur : 
-        ```bash
+3- Lancez le serveur :
+
             java Server
-        ```
-4- Lancez les clients :
+
+*4- Lancez les clients :*
+
             java Client
             
 
