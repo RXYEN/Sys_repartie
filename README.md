@@ -137,7 +137,8 @@ Ce rapport fournit une comparaison détaillée des forces et des faiblesses de J
 
 ## Author
 
-- **Name:** Rayen Slouma
+- **Name:** Rayen Slouma 
+- **Section:** IGL3
 - **GitHub:** [RXYEN](https://github.com/RXYEN/)
 - **Email:** rayen.slouma@etudiant-fst.utm.tn
 
