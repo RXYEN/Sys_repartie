@@ -1,7 +1,7 @@
 
 # Service De messagerie avec Grpc #
 
-Cette application est un exemple de service de diffusion. Tout message que vous saisissez est envoyé à tous les utilisateurs connectés
+Cette application est un exemple de service de messagerie. Tout message que vous saisissez est envoyé à tous les utilisateurs connectés
 Cette application est un exemple de service de messagerie .Tous les utilisateurs connectés peuvent  choisir leur pseudonyme, voir la liste des utilisateurs en ligne, envoyer un message à un utilisateur spécifique et recevoir les messages entrants des autres utilisateurs ou Quitter le service.
 (développé et testé avec JAVA 19.0.2 et Apache Maven 3.9.6 ) 
 
