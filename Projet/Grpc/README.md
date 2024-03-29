@@ -8,7 +8,8 @@ Cette application est un exemple de service de messagerie .Tous les utilisateurs
 ## Comment l'exécuter ##
 
 `Requirements :`     
-        Assurez-vous d'avoir 'Java'  installé sur votre machine.
+        Assurez-vous d'avoir 'Java' et 'maven' installés sur votre machine.
+        
         Assurez-vous d'avoir 'maven'  installé sur votre machine.
 
 `Les étapes :`
