@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+option java_package = "grpc.stub";
+
+message ServerResponse{
+      string message = 1 ;
+      int32 code = 2;
+}
+message Nickname{
+    string username = 1 ;
+}
+message content{
+       string destination = 1 ;
+       string source = 2;
+       string message = 3 ;
+}
+
+
+message connectedUser{
+    string user = 1;
+}
+message Empty{
+}
+service MessagingService{
+    rpc subscription (Nickname) returns (ServerResponse);
+    rpc showonline(Empty) returns (stream connectedUser);
+    rpc chat(stream content ) returns ( stream content);
+
+}
